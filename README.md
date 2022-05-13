@@ -2,9 +2,8 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<img align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaughingRover&layout=compact)](https://github.com/LaughingRover/LaughingRover)
-</img>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaughingRover&layout=compact)](https://github.com/LaughingRover/LaughingRover)
+![Rover's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaughingRover&hide=issues&show_icons=true)
 
 
 
