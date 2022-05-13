@@ -2,10 +2,9 @@
 
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaughingRover&layout=compact)](https://github.com/LaughingRover/LaughingRover)
-![Rover's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaughingRover&hide=issues&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaughingRover&layout=compact&theme=algolia)](https://github.com/LaughingRover/LaughingRover)
 
-
+![Rover's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaughingRover&hide=issues&show_icons=true&theme=algolia)
 
 <!--
 **LaughingRover/LaughingRover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
