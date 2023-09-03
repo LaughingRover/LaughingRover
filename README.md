@@ -55,13 +55,21 @@ A sample of my recent article:
 </details>
 
 
-<br />
-<h2 align="center">🤝 Support</h2>
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-<p align="center">Made with ❤️</p>
-<h1 align="center">⚡️<i>Stay awesome!</i>⚡️</h1>
-<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /></p>
+---
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+---
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<img width = '11000' src="https://readme-jokes.vercel.app/api?hideBorder&theme=ayu-mirage" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
 
 <!-- links to social media icons -->
