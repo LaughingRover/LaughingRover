@@ -24,8 +24,8 @@
 #### &#x1f4c8; Stats
 
 <a href="https://github.com/LaughingRover">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaughingRover&layout=donut&theme=swift&hide_title=true" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaughingRover&layout=donut&theme=swift&hide_title=true&langs_count=20" />
 </a>
 <a href="https://github.com/LaughingRover">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LaughingRover&hide=stars,issues,contribs&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=swift&layout=compact&langs_count=8&card_width=320&include_all_commits=true&rank_icon=github&hide_title=true&hide_rank=true" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=LaughingRover&hide=issues,contribs&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=swift&layout=compact&langs_count=8&card_width=320&include_all_commits=true&rank_icon=github&hide_title=true&hide_rank=true" />
 </a>
