@@ -14,7 +14,7 @@ Design your own to suit your needs! Or well, at least give credit, sheesh.
 
 ![header](https://github.com/LaughingRover/LaughingRover/blob/main/header.png)
 
-You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][3.1]][3]
+You can find me on [![][twitter-icon]][twitter],  or on [![][linkedin-icon]][linkedin]
 
 - 👯 Looking to collaborate on **Opensource projects**
 - 💬 Ask me about **Cyber security, System programming**
@@ -82,20 +82,16 @@ A sample of my recent article:
 <img width = '11000' src="https://readme-jokes.vercel.app/api?hideBorder&theme=ayu-mirage" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
 
+<!-- Definitions -->
 <!-- links to social media icons -->
-[1.1]: https://img.shields.io/badge/X-white?style=social&logo=twitter&logoColor=blue
-[2.1]: https://img.shields.io/badge/Github-white?style=social&logo=github&logoColor=black
-[3.1]: https://img.shields.io/badge/LinkedIn-white?style=social&logo=Linkedin&logoColor=blue
+[twitter-icon]: https://img.shields.io/badge/X-white?style=social&logo=twitter&logoColor=blue
+[linkedin-icon]: https://img.shields.io/badge/LinkedIn-white?style=social&logo=Linkedin&logoColor=blue
+[github-icon]: https://img.shields.io/badge/Github-white?style=social&logo=github&logoColor=black
 
 <!-- links to your social media accounts -->
-[1]: https://twitter.com/jay_thriple
-[2]: https://www.linkedin.com/in/joseph-odohofreh/
-[3]: https://github.com/LaughingRover
-
-<!--
-<be></br>
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite)
--->
+[twitter]: https://twitter.com/jay_thriple
+[linkedin]: https://www.linkedin.com/in/joseph-odohofreh/
+[github]: https://github.com/LaughingRover
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
