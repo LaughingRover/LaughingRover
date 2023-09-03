@@ -65,8 +65,11 @@ A sample of my recent article:
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
+<!-- Header: https://github.com/khalby786/REHeader -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
+<!-- README Jokes: https://github.com/ABSphreak/readme-jokes -->
+<!-- README quotes: https://github.com/PiyushSuthar/github-readme-quotes -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
