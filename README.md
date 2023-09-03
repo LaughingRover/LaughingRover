@@ -1,4 +1,6 @@
-## Hi there, I'm Joseph Ita 👋
+![Views](https://komarev.com/ghpvc/?username=LaughingRover&style=for-the-badge&color=0e75b6)
+
+## Hi there, I'm Joseph 👋
 
 I  tinker with stuff and reimagine current solutions. **LaughingRover/LaughingRover** is a ✨ _special_ ✨ repository, do poke around and have fun. Cheers! `:)`.
 
@@ -25,6 +27,3 @@ I  tinker with stuff and reimagine current solutions. **LaughingRover/LaughingRo
 <a href="https://github.com/LaughingRover">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LaughingRover&hide=stars,issues,contribs&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=swift&layout=compact&langs_count=8&card_width=320&include_all_commits=true&rank_icon=github&hide_title=true&hide_rank=true" />
 </a>
-
-#### 🎯 Profile Hits Count
-![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{LaughingRover}1212%2Fhit-counter)
