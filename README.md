@@ -82,15 +82,15 @@ Recent articles:
 
 <!-- Definitions -->
 <!-- links to social media icons -->
-
 [twitter-icon]: https://img.shields.io/badge/X-white?style=social&logo=twitter&logoColor=blue
 [linkedin-icon]: https://img.shields.io/badge/LinkedIn-white?style=social&logo=Linkedin&logoColor=blue
 [github-icon]: https://img.shields.io/badge/Github-white?style=social&logo=github&logoColor=black
 <!-- links to your social media accounts -->
-
 [twitter]: https://twitter.com/jay_thriple
 [linkedin]: https://www.linkedin.com/in/joseph-odohofreh/
 [github]: https://github.com/LaughingRover
+
+
 <!-- Resources -->
 
 <!-- Icons: https://simpleicons.org/ -->
@@ -112,6 +112,7 @@ Recent articles:
 <!-- README quotes: https://github.com/PiyushSuthar/github-readme-quotes -->
 
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
 
 [**octo ring**](https://octo-ring.com/)
 [[prev](https://octo-ring.com/p/LaughingRover/prev)]  [[random](https://octo-ring.com/p/LaughingRover/random)]  [[next](https://octo-ring.com/p/LaughingRover/next)]
