@@ -4,7 +4,7 @@
 
 ![header](https://github.com/LaughingRover/LaughingRover/blob/main/header.png)
 
-I'm a software Engineer. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][3.1]][3]
+You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][3.1]][3]
 
 - 👯 Looking to collaborate on **Opensource projects**
 - 💬 Ask me about **Cyber security, System programming**
