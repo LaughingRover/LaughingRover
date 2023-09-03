@@ -108,3 +108,6 @@ A sample of my recent article:
 <!-- README Jokes: https://github.com/ABSphreak/readme-jokes -->
 <!-- README quotes: https://github.com/PiyushSuthar/github-readme-quotes -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+[**octo ring**](https://octo-ring.com/)
+[[prev](https://octo-ring.com/p/LaughingRover/prev)]  [[random](https://octo-ring.com/p/LaughingRover/random)]  [[next](https://octo-ring.com/p/LaughingRover/next)]
