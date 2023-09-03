@@ -11,6 +11,17 @@ I'm a software Engineer. You can find me on [![Twitter][1.1]][1],  or on [![Link
 - ⚡ Fun fact **Love to play chess♟️**
 
 <be></br>
+### &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on [hashnode](https://codeflakes.hashnode.dev/)
+
+A sample of my recent article:
+
+<!-- BLOG-POST-LIST:START -->
+[Indirection Demystified: A Programmer's Guide](https://codeflakes.hashnode.dev/indirection-demystified-a-programmers-guide)
+<!-- BLOG-POST-LIST:END -->
+
+<be></br>
 ### 🔧 Technologies & Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -18,16 +29,6 @@ I'm a software Engineer. You can find me on [![Twitter][1.1]][1],  or on [![Link
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-white?style=for-the-badge&logo=Vagrant&logoColor=blue)
 
-<be></br>
-### &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on [https://hashnode.com/@codeflakes](https://codeflakes.hashnode.dev/)
-
-A sample of my recent article:
-
-<!-- BLOG-POST-LIST:START -->
-[Indirection Demystified: A Programmer's Guide](https://codeflakes.hashnode.dev/indirection-demystified-a-programmers-guide)
-<!-- BLOG-POST-LIST:END -->
 
 <be></br>
 ### 🟢 Activity
@@ -57,8 +58,10 @@ A sample of my recent article:
 [2]: https://www.linkedin.com/in/joseph-odohofreh/
 [3]: https://github.com/LaughingRover
 
+<!--
 <be></br>
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite)
+-->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
