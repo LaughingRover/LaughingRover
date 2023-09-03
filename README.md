@@ -21,7 +21,7 @@ A sample of my recent article:
 [Indirection Demystified: A Programmer's Guide](https://codeflakes.hashnode.dev/indirection-demystified-a-programmers-guide)
 <!-- BLOG-POST-LIST:END -->
 
-<be></br>
+---
 ### 🔧 Technologies & Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
