@@ -28,6 +28,7 @@ Apart from coding, I also maintain a blog on [hashnode](https://codeflakes.hashn
 Recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Indirection Demystified: A Programmer&#39;s Guide](https://codeflakes.hashnode.dev/indirection-demystified-a-programmers-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
