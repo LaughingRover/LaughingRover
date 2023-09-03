@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=I+Engineer+Change;One+Code+Block+At+A+Time)](https://git.io/typing-svg)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+![header](https://github.com/LaughingRover/LaughingRover/blob/main/header.png)
 
-My name is Joseph Ita and I'm a software Engineer. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][3.1]][3]
+I'm a software Engineer. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][3.1]][3]
 
 - 👯 Looking to collaborate on **Opensource projects**
 - 💬 Ask me about **Cyber security, System programming**
@@ -30,7 +30,7 @@ A sample of my recent article:
 <!-- BLOG-POST-LIST:END -->
 
 <be></br>
-### Activity
+### 🟢 Activity
 
 <a href="https://github.com/LaughingRover">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LaughingRover&theme=swift&exclude_days=Sun&fire=EB5454" />
@@ -46,16 +46,19 @@ A sample of my recent article:
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=LaughingRover&hide=issues,contribs&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=swift&layout=compact&langs_count=8&card_width=320&include_all_commits=true&rank_icon=github&hide_title=true&hide_rank=true" />
 </a>
 
+
 <!-- links to social media icons -->
-[1.1]: https://img.shields.io/badge/X-white?style=for-the-badge&logo=twitter&logoColor=blue
-[2.1]: https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black
-[3.1]: https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=Linkedin&logoColor=blue
+[1.1]: https://img.shields.io/badge/X-white?style=social&logo=twitter&logoColor=blue
+[2.1]: https://img.shields.io/badge/Github-white?style=social&logo=github&logoColor=black
+[3.1]: https://img.shields.io/badge/LinkedIn-white?style=social&logo=Linkedin&logoColor=blue
 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/jay_thriple
 [2]: https://www.linkedin.com/in/joseph-odohofreh/
 [3]: https://github.com/LaughingRover
 
+<be></br>
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
