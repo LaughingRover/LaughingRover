@@ -6,20 +6,19 @@ I  tinker with stuff and reimagine current solutions. **LaughingRover/LaughingRo
 
 ### About Me:
 
-- 🔭 I am a Software Engineer
-- 🌱 My areas of interest are Cyber security, Blockchain, System programming
-- 👯 I’m looking to collaborate on Open Source Project
-- 💬 Ask me about Food & Chess
-- ⚡ Fun fact: ^_^
+- 👯 I’m looking to collaborate on **Opensource projects**
+- 📝 I write articles on [https://hashnode.com/@codeflakes](https://codeflakes.hashnode.dev/)
+- 💬 Ask me about **Cyber security, System programming**
+- ⚡ Fun fact **Love to play chess♗♟️**
 
 <!-- https://shields.io -->
-#### Tools and Technologies
+### Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### &#x1f4c8; Stats
+### &#x1f4c8; Stats
 
 <a href="https://github.com/LaughingRover">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaughingRover&layout=donut&theme=swift&hide_title=true" />
