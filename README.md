@@ -1,3 +1,13 @@
+<!-- 
+
+WARNING 🔔🚨🚨🚨🚨🚨🚨🚨🔔
+
+Please think twice before BLINDLY COPYING my profile readme format. 
+Design your own to suit your needs! Or well, at least give credit, sheesh.
+ 
+ -->
+
+
 ![Visits](https://komarev.com/ghpvc/?username=LaughingRover&style=for-the-badge&color=0e75b6)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=I+Engineer+Change;One+Code+Block+At+A+Time)](https://git.io/typing-svg)
