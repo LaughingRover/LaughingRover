@@ -1,27 +1,43 @@
 ![Views](https://komarev.com/ghpvc/?username=LaughingRover&style=for-the-badge&color=0e75b6)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Joseph+Ita+%F0%9F%91%8B;I+Engineer+Change+;One+Code+Block+At+A+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=I+Engineer+Change;One+Code+Block+At+A+Time)](https://git.io/typing-svg)
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+
+My name is Joseph Ita and I'm a software Engineer. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][3.1]][3]
 
 - 👯 Looking to collaborate on **Opensource projects**
-- 📝 I write articles on [https://hashnode.com/@codeflakes](https://codeflakes.hashnode.dev/)
 - 💬 Ask me about **Cyber security, System programming**
 - ⚡ Fun fact **Love to play chess♟️**
 
-<!-- https://shields.io -->
-#### Tools and Technologies
+<be></br>
+### 🔧 Technologies & Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-white?style=for-the-badge&logo=Vagrant&logoColor=blue)
 
-#### Activity
+<be></br>
+### &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on [https://hashnode.com/@codeflakes](https://codeflakes.hashnode.dev/)
+
+A sample of my recent article:
+
+<!-- BLOG-POST-LIST:START -->
+[Indirection Demystified: A Programmer's Guide](https://codeflakes.hashnode.dev/indirection-demystified-a-programmers-guide)
+<!-- BLOG-POST-LIST:END -->
+
+<be></br>
+### Activity
 
 <a href="https://github.com/LaughingRover">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LaughingRover&theme=swift&exclude_days=Sun&fire=EB5454" />
 </a>
 
-#### &#x1f4c8; Stats
+<be></br>
+### &#x1f4c8; Languages & Stats
 
 <a href="https://github.com/LaughingRover">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaughingRover&layout=donut&theme=swift&hide_title=true&langs_count=20" />
@@ -29,3 +45,22 @@
 <a href="https://github.com/LaughingRover">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=LaughingRover&hide=issues,contribs&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=swift&layout=compact&langs_count=8&card_width=320&include_all_commits=true&rank_icon=github&hide_title=true&hide_rank=true" />
 </a>
+
+<!-- links to social media icons -->
+[1.1]: https://img.shields.io/badge/X-white?style=for-the-badge&logo=twitter&logoColor=blue
+[2.1]: https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black
+[3.1]: https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=Linkedin&logoColor=blue
+
+<!-- links to your social media accounts -->
+[1]: https://twitter.com/jay_thriple
+[2]: https://www.linkedin.com/in/joseph-odohofreh/
+[3]: https://github.com/LaughingRover
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
