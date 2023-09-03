@@ -65,25 +65,21 @@ Recent articles:
 
 ---
 
-### `<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />` A Famous Fact/Quote:
-
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
+### Quote:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!--ENDS_HERE_QUOTE_README-->
 
 </a>
 
 ---
 
-### `<img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' />` Here's some humor for you:
+### Here's some humor for you:
 
-`<img width = '11000' src="https://readme-jokes.vercel.app/api?hideBorder&theme=ayu-mirage" alt="Error fetching resource, Refresh again to view Jokes Card" />`
+<img width = '11000' src="https://readme-jokes.vercel.app/api?hideBorder&theme=ayu-mirage" alt="Error fetching resource, Refresh again to view Jokes Card" />
+
 
 <!-- Definitions -->
-
 <!-- links to social media icons -->
 
 [twitter-icon]: https://img.shields.io/badge/X-white?style=social&logo=twitter&logoColor=blue
