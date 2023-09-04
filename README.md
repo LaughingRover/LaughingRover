@@ -111,6 +111,8 @@ Recent articles:
 
 <!-- README quotes: https://github.com/PiyushSuthar/github-readme-quotes -->
 
+<!-- Github Actions Blog-post: https://github.com/gautamkrishnar/blog-post-workflow -->
+
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 
