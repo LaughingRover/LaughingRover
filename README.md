@@ -39,6 +39,12 @@ Recent articles:
 
 <br />
 
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/laughingrover" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+<br />
+
 ### 🔧 Technologies & Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
