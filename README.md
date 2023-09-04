@@ -55,7 +55,7 @@ Like My Work?
 ---
 
 <details>
-  <summary><b>🟢 Activity</b></summary>
+  <summary><b>🔥 Activity</b></summary>
 
 <br />
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LaughingRover&theme=swift&exclude_days=Sun&fire=EB5454" />
