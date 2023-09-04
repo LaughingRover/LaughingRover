@@ -13,12 +13,18 @@ Design your own to suit your needs! Or well, at least give credit, sheesh.
 
 ![header](https://github.com/LaughingRover/LaughingRover/blob/main/header.png)
 
-Find me on ,  or on 
+Find me on [![][twitter-icon]][twitter],  or on [![][linkedin-icon]][linkedin]
 
 - 👯 Looking to collaborate on **Opensource projects**
 - 💬 Ask me about **Cyber security, System programming**
 - ⚡ Fun fact **Love to play chess♟️**
 
+<br />
+👇 Hit the cmd in your console or terminal to connect with me.
+
+```sh
+npx laughingrover
+```
 <br />
 
 ### 📕 Blog & Writing
