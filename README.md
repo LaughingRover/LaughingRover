@@ -14,11 +14,16 @@ Design your own to suit your needs! Or well, at least give credit, sheesh.
 ![header](https://github.com/LaughingRover/LaughingRover/blob/main/header.png)
 
 Find me on [![][twitter-icon]][twitter],  or on [![][linkedin-icon]][linkedin]
-
-- 👯 Looking to collaborate on **Opensource projects**
-- 💬 Ask me about **Cyber security, System programming**
-- ⚡ Fun fact **Love to play chess♟️**
-
+<pre>
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ 💻 Computer Engineer
+├─▣ 👯 Looking to <strong>collaborate on Opensource Projects</strong>
+├─▣ 💬 Ask me about <strong>Cyber security, System programming</strong>
+├─▣ ⚡ Fun fact <strong>love to play chess♟️</strong>
+│
+└───────────────────────────────▰▰▰
+</pre>
 <br />
 👇 Hit the cmd in your console or terminal to connect with me.
 
