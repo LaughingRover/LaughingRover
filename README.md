@@ -13,7 +13,7 @@ Design your own to suit your needs! Or well, at least give credit, sheesh.
 
 ![header](https://github.com/LaughingRover/LaughingRover/blob/main/header.png)
 
-Find me on [![][twitter-icon]][twitter],  or on [![][linkedin-icon]][linkedin]
+[![][twitter-icon]][twitter] [![][linkedin-icon]][linkedin]
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
