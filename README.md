@@ -63,15 +63,15 @@ Like My Work?
   <summary><b>🔥 Activity</b></summary>
 
 <br />
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LaughingRover&theme=swift&exclude_days=Sun&fire=EB5454" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LaughingRover&theme=react&exclude_days=Sun&fire=EB5454" />
 </details>
 
 <details>
   <summary><b>📈 Languages & Stats</b></summary>
 
 <br />
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaughingRover&layout=donut&theme=swift&hide_title=true&langs_count=20" />
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=LaughingRover&hide=issues,contribs&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=swift&layout=compact&langs_count=8&card_width=320&include_all_commits=true&rank_icon=github&hide_title=true&hide_rank=true" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaughingRover&layout=donut&theme=react&hide_title=true&langs_count=20" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=LaughingRover&hide=issues,contribs&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=react&layout=compact&langs_count=8&card_width=320&include_all_commits=true&rank_icon=github&hide_title=true&hide_rank=true" />
 </details>
 
 ---
@@ -87,7 +87,7 @@ Like My Work?
 
 ### Here's some humor for you:
 
-<img width = '11000' src="https://readme-jokes.vercel.app/api?hideBorder&theme=ayu-mirage" alt="Error fetching resource, Refresh again to view Jokes Card" />
+<img width = '11000' src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
 
 <!-- Definitions -->
