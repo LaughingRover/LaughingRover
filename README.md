@@ -11,7 +11,7 @@ Design your own to suit your needs! Or well, at least give credit, sheesh.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=I+Engineer+Change;One+Code+Block+At+A+Time)](https://git.io/typing-svg)
 
-![header](https://github.com/LaughingRover/LaughingRover/blob/main/header.png)
+<!-- ![header](https://github.com/LaughingRover/LaughingRover/blob/main/header.png) -->
 
 [![][twitter-icon]][twitter] [![][linkedin-icon]][linkedin]
 <pre>
