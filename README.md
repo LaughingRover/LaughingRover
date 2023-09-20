@@ -17,7 +17,7 @@ Design your own to suit your needs! Or well, at least give credit, sheesh.
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ 💻 Computer Engineer
+├─▣ 💻 Software Engineer
 ├─▣ 👯 Looking to <strong>collaborate on Opensource Projects</strong>
 ├─▣ 💬 Ask me about <strong>Cyber security, System programming</strong>
 ├─▣ ⚡ Fun fact <strong>love to play chess♟️</strong>
